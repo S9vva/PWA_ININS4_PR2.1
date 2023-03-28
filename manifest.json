@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po Lwowie",
+    "short_name": "Lwów",
+    "theme_color": "#ff8a00",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "./img/icon.png",
+            "size": "64x64",
+            "type": "image/png"
+        }
+    ]
+}
